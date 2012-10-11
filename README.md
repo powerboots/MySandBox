@@ -1,4 +1,4 @@
 MySandBox
 =========
 
-![JustTry](https://raw.github.com/powerboots/master/workflow.png)
+![MySandBox](https://raw.github.com/powerboots/master/workflow.png)
